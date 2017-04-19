@@ -1,24 +1,12 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Acess Data with Get JSON
 
-Things you may want to cover:
+## URL for Get with JSON
 
-* Ruby version
+* For acess data of person with ID 1
 
-* System dependencies
+> http://localhost:3000/people/1.json
 
-* Configuration
+* For acess data of people
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> http://localhost:3000/people.json
